@@ -5513,3 +5513,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 02:16:30.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BladePatterson_ lost connection: Disconnected
 [03May2025 02:16:30.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ left the game
 [03May2025 02:16:30.272] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BladePatterson_
+[03May2025 02:28:46.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BladePatterson_[/127.104.23.9:60147] logged in with entity id 1395 at (-7.678316295154723, 71.0, -8.13261335444964)
+[03May2025 02:28:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ joined the game
+[03May2025 02:28:47.806] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of BladePatterson_ (18)
+[03May2025 02:28:47.807] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to BladePatterson_
+[03May2025 02:31:34.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[03May2025 02:31:49.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Monster Hunter]
+[03May2025 02:32:25.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShadowDairk[/127.70.196.34:44439] logged in with entity id 2544 at (-4.5, 69.0, -5.5)
+[03May2025 02:32:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk joined the game
+[03May2025 02:32:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has completed the challenge [The Undead]
+[03May2025 02:32:26.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShadowDairk (18)
+[03May2025 02:32:26.991] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShadowDairk
+[03May2025 02:34:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Stone Age]
