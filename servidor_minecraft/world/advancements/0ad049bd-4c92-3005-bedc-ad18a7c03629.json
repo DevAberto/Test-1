@@ -503,6 +503,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-03 03:21:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/black_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 02:39:09 +0000"
@@ -2838,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-03 03:23:37 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/willow_trapdoors": {
     "criteria": {
       "has_the_recipe": "2025-05-03 02:50:56 +0000"
@@ -4704,6 +4716,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-05-03 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-05-03 03:21:00 +0000"
     },
     "done": true
   },
