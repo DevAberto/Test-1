@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "a7c0ced610b53ebbb76b0fcee15adfd6"
+	name: "BladePatterson_#a7c0ced6"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		594C284B72E0D45D: 1
+	}
+	started: {
+		5AB16C8B0BF2BDCE: 1746238570911L
+		0000000000000001: 1746238570911L
+		594C284B72E0D45D: 1746238570911L
+		672B9103CC8C493F: 1746238570911L
+	}
+	completed: {
+		594C284B72E0D45D: 1746238570919L
+		672B9103CC8C493F: 1746238570919L
+	}
+	claimed_rewards: {
+		"a7c0ced610b53ebbb76b0fcee15adfd6:196319F28DC094EC": 1746238570926L
+	}
+	player_data: { }
+}
