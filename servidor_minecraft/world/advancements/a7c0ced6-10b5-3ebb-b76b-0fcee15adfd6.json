@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-03 04:03:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:22:58 +0000"
@@ -848,6 +854,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-03 03:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 04:00:34 +0000"
     },
     "done": true
   },
@@ -1080,6 +1092,12 @@
     },
     "done": true
   },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-05-03 03:54:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-05-03 03:12:56 +0000"
@@ -1235,6 +1253,7 @@
       "minecraft:skeleton": "2025-05-03 03:31:12 +0000",
       "minecraft:spider": "2025-05-03 03:34:10 +0000",
       "minecraft:creeper": "2025-05-03 03:30:53 +0000",
+      "minecraft:cave_spider": "2025-05-03 04:05:47 +0000",
       "minecraft:zombie": "2025-05-03 02:31:49 +0000"
     },
     "done": false
@@ -1947,6 +1966,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 04:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-05-03 02:37:24 +0000"
@@ -2118,6 +2143,12 @@
   "mcwbiomesoplenty:recipes/fir_trapdoors": {
     "criteria": {
       "has_the_recipe": "2025-05-03 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-05-03 04:00:34 +0000"
     },
     "done": true
   },
@@ -3267,6 +3298,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-05-03 03:53:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:22:58 +0000"
@@ -3336,6 +3373,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-05-03 03:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-03 04:03:12 +0000"
     },
     "done": true
   },
@@ -4431,6 +4474,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-03 04:01:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-03 02:59:59 +0000"
@@ -5175,6 +5224,12 @@
     },
     "done": true
   },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-05-03 03:51:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-05-03 02:37:21 +0000"
@@ -5633,6 +5688,7 @@
       "cooked_porkchop": "2025-05-03 03:45:12 +0000",
       "cooked_beef": "2025-05-03 03:22:10 +0000",
       "pumpkin_pie": "2025-05-03 02:30:57 +0000",
+      "bread": "2025-05-03 04:01:29 +0000",
       "melon_slice": "2025-05-03 03:14:48 +0000"
     },
     "done": false
