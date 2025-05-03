@@ -61,6 +61,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_stool": {
     "criteria": {
       "has_planks": "2025-05-03 03:49:52 +0000"
@@ -130,6 +136,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-03 03:47:44 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -277,6 +289,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/granite_bridge_stair": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-03 03:47:44 +0000"
@@ -346,6 +364,12 @@
   "mcwbiomesoplenty:recipes/origin_hedge": {
     "criteria": {
       "has_birch": "2025-05-03 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
     },
     "done": true
   },
@@ -452,6 +476,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-05-03 03:57:45 +0000"
@@ -461,6 +491,18 @@
   "mcwbiomesoplenty:recipes/redwood_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-03 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/granite_stepping_stones": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -593,6 +635,18 @@
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/granite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -794,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-05-03 03:55:53 +0000"
@@ -851,6 +911,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-03 04:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -971,6 +1037,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/balustrade_granite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -1100,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
@@ -1157,6 +1235,12 @@
   "decorative_blocks:recipes/building_blocks/lattice": {
     "criteria": {
       "has_stick": "2025-05-03 03:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -1268,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/willow_hedge": {
     "criteria": {
       "has_birch": "2025-05-03 03:46:06 +0000"
@@ -1280,9 +1370,27 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/andesite_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-03 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
     },
     "done": true
   },
@@ -1622,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_seat": {
     "criteria": {
       "has_plank": "2025-05-03 03:49:52 +0000"
@@ -1763,6 +1877,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-05-03 03:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -2360,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-03 03:47:44 +0000"
@@ -2453,6 +2579,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-03 03:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
     },
     "done": true
   },
@@ -2720,6 +2852,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-05-03 04:30:19 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/doorbell": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
@@ -2753,6 +2891,12 @@
   "mcwtrpdoors:recipes/oak/oak_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
     },
     "done": true
   },
@@ -2900,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
@@ -2909,6 +3059,12 @@
   "mcwbiomesoplenty:recipes/umbran_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-03 03:46:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
     },
     "done": true
   },
@@ -3218,6 +3374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-03 03:47:44 +0000"
@@ -3233,6 +3395,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2025-05-03 03:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-05-03 04:26:17 +0000"
     },
     "done": true
   },
@@ -3410,6 +3578,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-03 04:29:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-05-03 03:49:52 +0000"
@@ -3468,7 +3648,8 @@
     "criteria": {
       "cooked_porkchop": "2025-05-03 03:52:45 +0000",
       "cooked_beef": "2025-05-03 04:01:19 +0000",
-      "pumpkin_pie": "2025-05-03 04:18:52 +0000"
+      "pumpkin_pie": "2025-05-03 04:18:52 +0000",
+      "bread": "2025-05-03 04:35:32 +0000"
     },
     "done": false
   },
@@ -3613,6 +3794,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_lamp": {
     "criteria": {
       "has_planks": "2025-05-03 03:49:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/andesite_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-05-03 04:29:39 +0000"
     },
     "done": true
   },

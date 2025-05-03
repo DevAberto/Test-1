@@ -5606,3 +5606,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:23:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 has made the advancement [Deceived Hopes]
 [03May2025 04:25:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk was slain by Bloodworm
 [03May2025 04:25:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Diamonds!]
+[03May2025 04:30:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -14.000000, -1419.500000]
+[03May2025 04:30:32.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -12.000000, -1419.500000]
+[03May2025 04:30:36.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -10.000000, -1419.500000]
+[03May2025 04:30:37.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk suffocated in a wall
+[03May2025 04:30:41.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -10.000000, -1419.500000]
+[03May2025 04:30:45.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -5.000000, -1419.500000]
+[03May2025 04:30:50.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -48.000000, -1419.500000]
+[03May2025 04:30:53.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk suffocated in a wall
+[03May2025 04:31:21.911] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: BUILDER spawned at BlockPos{x=-502, y=46, z=-1600}
+[03May2025 04:31:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to -631.500000, -27.000000, -1419.500000]
+[03May2025 04:35:07.811] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-678, y=69, z=-1436}
+[03May2025 04:35:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to BladePatterson_]
+[03May2025 04:35:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Suit Up]
+[03May2025 04:36:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Ice Bucket Challenge]
