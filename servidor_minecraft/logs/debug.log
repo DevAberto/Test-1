@@ -14753,3 +14753,192 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:35:58.666] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.87, y=75.56, z=-1433.00] in list []
 [03May2025 04:35:58.767] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.87, y=75.56, z=-1433.00]
 [03May2025 04:36:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Ice Bucket Challenge]
+[03May2025 04:37:04.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.90, y=75.56, z=-1433.21], dimensionLocationPath overworld
+[03May2025 04:37:04.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.90, y=75.56, z=-1433.21] in list []
+[03May2025 04:37:04.915] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.90, y=75.56, z=-1433.21]
+[03May2025 04:37:05.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.90, y=75.56, z=-1433.21], dimensionLocationPath overworld
+[03May2025 04:37:05.765] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-636.90, y=75.56, z=-1433.21] in list []
+[03May2025 04:37:06.565] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-637.62, y=75.00, z=-1433.43]
+[03May2025 04:37:11.816] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-630.09, y=76.18, z=-1432.21], dimensionLocationPath overworld
+[03May2025 04:37:11.817] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-630.09, y=76.18, z=-1432.21] in list []
+[03May2025 04:37:12.015] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-629.30, y=75.12, z=-1432.43]
+[03May2025 04:38:23.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [It's an Emu!!!]
+[03May2025 04:39:39.034] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-500.19, y=67.00, z=-986.30], dimensionLocationPath overworld
+[03May2025 04:39:39.034] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-500.19, y=67.00, z=-986.30] in list []
+[03May2025 04:39:39.078] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-500.19, y=67.00, z=-986.30]
+[03May2025 04:39:39.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-500.57, y=67.00, z=-986.48], dimensionLocationPath overworld
+[03May2025 04:39:39.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-500.57, y=67.00, z=-986.48] in list []
+[03May2025 04:39:43.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-503.33, y=67.00, z=-987.88]
+[03May2025 04:39:46.821] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-504.90, y=65.00, z=-988.70], dimensionLocationPath overworld
+[03May2025 04:39:46.821] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-504.90, y=65.00, z=-988.70] in list []
+[03May2025 04:40:23.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-441.22, y=67.00, z=-894.54]
+[03May2025 04:40:24.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-439.55, y=66.00, z=-896.02], dimensionLocationPath overworld
+[03May2025 04:40:24.326] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-439.55, y=66.00, z=-896.02] in list []
+[03May2025 04:40:24.823] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-438.95, y=65.00, z=-897.66]
+[03May2025 04:40:31.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-444.50, y=60.00, z=-902.08], dimensionLocationPath overworld
+[03May2025 04:40:31.023] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-444.50, y=60.00, z=-902.08] in list []
+[03May2025 04:40:32.830] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-442.71, y=60.00, z=-901.29]
+[03May2025 04:40:39.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-453.57, y=60.00, z=-909.28], dimensionLocationPath overworld
+[03May2025 04:40:39.932] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-453.57, y=60.00, z=-909.28] in list []
+[03May2025 04:40:39.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-453.76, y=60.00, z=-909.49]
+[03May2025 04:40:40.272] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-455.04, y=60.00, z=-910.55], dimensionLocationPath overworld
+[03May2025 04:40:40.272] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-455.04, y=60.00, z=-910.55] in list []
+[03May2025 04:40:47.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-476.22, y=60.00, z=-932.74]
+[03May2025 04:40:50.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:40:50.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:41:18.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-469.02, y=58.00, z=-911.83], dimensionLocationPath overworld
+[03May2025 04:41:18.129] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-469.02, y=58.00, z=-911.83] in list []
+[03May2025 04:41:18.176] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-468.52, y=58.00, z=-911.65]
+[03May2025 04:41:18.423] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-467.42, y=58.00, z=-911.48], dimensionLocationPath overworld
+[03May2025 04:41:18.423] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-467.42, y=58.00, z=-911.48] in list []
+[03May2025 04:41:24.086] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-457.60, y=52.51, z=-907.13]
+[03May2025 04:41:24.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-457.81, y=52.73, z=-908.13], dimensionLocationPath overworld
+[03May2025 04:41:24.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-457.81, y=52.73, z=-908.13] in list []
+[03May2025 04:41:25.674] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-457.96, y=52.45, z=-907.80]
+[03May2025 04:41:26.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-456.99, y=53.31, z=-907.06], dimensionLocationPath overworld
+[03May2025 04:41:26.175] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-456.99, y=53.31, z=-907.06] in list []
+[03May2025 04:41:28.723] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-451.13, y=55.25, z=-902.30]
+[03May2025 04:41:33.029] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-446.34, y=59.50, z=-897.88], dimensionLocationPath overworld
+[03May2025 04:41:33.030] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-446.34, y=59.50, z=-897.88] in list []
+[03May2025 04:41:36.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-441.47, y=63.00, z=-886.34]
+[03May2025 04:42:36.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-361.39, y=63.54, z=-739.35], dimensionLocationPath overworld
+[03May2025 04:42:36.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-361.39, y=63.54, z=-739.35] in list []
+[03May2025 04:42:36.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['BladePatterson_'/1395, l='ServerLevel[world]', x=-361.15, y=63.00, z=-739.15]
+[03May2025 04:44:04.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkos550 lost connection: Disconnected
+[03May2025 04:44:04.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 left the game
+[03May2025 04:44:04.436] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Arkos550
+[03May2025 04:44:04.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arkos550
+[03May2025 04:44:06.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BladePatterson_ lost connection: Disconnected
+[03May2025 04:44:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ left the game
+[03May2025 04:44:06.671] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of BladePatterson_
+[03May2025 04:44:06.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BladePatterson_
+[03May2025 04:44:08.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShadowDairk lost connection: Disconnected
+[03May2025 04:44:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk left the game
+[03May2025 04:44:08.515] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of ShadowDairk
+[03May2025 04:44:08.515] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShadowDairk
+[03May2025 04:44:49.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[03May2025 04:44:50.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:44:50.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:44:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[03May2025 04:44:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03May2025 04:44:54.422] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[03May2025 04:44:54.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 04:44:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 04:44:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 04:44:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 04:44:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 04:44:56.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03May2025 04:44:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 04:44:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[03May2025 04:44:56.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03May2025 04:44:56.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03May2025 04:44:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 04:44:56.635] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[03May2025 04:44:56.635] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03May2025 04:44:56.636] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Test-1/servidor_minecraft/config/refurbished_furniture.server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03May2025 04:44:56.637] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[03May2025 04:44:56.637] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Test-1/servidor_minecraft/config/backpacked-common.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03May2025 04:44:56.637] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[03May2025 04:44:56.637] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: ./world/serverconfig/backpacked-server.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.lambda$forEachRemaining$1(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at com.google.common.collect.CollectSpliterators$1WithCharacteristics.forEachRemaining(CollectSpliterators.java:72) ~[guava-31.1-jre.jar%2374!/:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23230!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.4.0-universal.jar%23290!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23285!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[03May2025 04:44:56.637] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[03May2025 04:44:56.638] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[03May2025 04:44:56.638] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[03May2025 04:44:56.638] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

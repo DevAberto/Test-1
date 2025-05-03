@@ -1074,6 +1074,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-05-03 04:37:21 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 02:29:58 +0000"
@@ -2278,6 +2284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-03 04:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-03 04:12:49 +0000"
@@ -2488,6 +2500,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-03 04:36:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:22:58 +0000"
@@ -2563,6 +2581,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-03 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-03 04:40:35 +0000"
     },
     "done": true
   },
@@ -4666,6 +4690,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-03 04:40:35 +0000"
+    },
+    "done": true
+  },
   "farmersrespite:recipes/food/nether_wart_sourdough": {
     "criteria": {
       "has_wart": "2025-05-03 02:37:22 +0000"
@@ -5137,6 +5167,12 @@
   "backpacked:recipes/decorations/jungle_backpack_shelf": {
     "criteria": {
       "has_stick": "2025-05-03 02:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 04:36:03 +0000"
     },
     "done": true
   },
@@ -5649,7 +5685,8 @@
       "minecraft:desert": "2025-05-03 02:54:16 +0000",
       "minecraft:jungle": "2025-05-03 02:34:18 +0000",
       "minecraft:warm_ocean": "2025-05-03 02:55:12 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-05-03 02:55:22 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-05-03 02:55:22 +0000",
+      "minecraft:savanna": "2025-05-03 04:42:29 +0000"
     },
     "done": false
   },
@@ -5746,6 +5783,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_kitchen_storage_cabinet": {
     "criteria": {
       "has_jungle_planks": "2025-05-03 02:39:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-03 04:36:33 +0000"
     },
     "done": true
   },
@@ -5849,6 +5892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-03 04:36:03 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-05-03 02:30:04 +0000"
@@ -5918,6 +5967,12 @@
   "mcwbiomesoplenty:recipes/dead_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-03 02:43:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-03 04:36:33 +0000"
     },
     "done": true
   },

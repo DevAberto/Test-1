@@ -5571,6 +5571,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-05-03 04:38:23 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 03:57:17 +0000"

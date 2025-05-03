@@ -5620,3 +5620,36 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:35:25.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to BladePatterson_]
 [03May2025 04:35:43.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Suit Up]
 [03May2025 04:36:03.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Ice Bucket Challenge]
+[03May2025 04:38:23.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [It's an Emu!!!]
+[03May2025 04:44:04.436] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkos550 lost connection: Disconnected
+[03May2025 04:44:04.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 left the game
+[03May2025 04:44:04.437] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arkos550
+[03May2025 04:44:06.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BladePatterson_ lost connection: Disconnected
+[03May2025 04:44:06.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ left the game
+[03May2025 04:44:06.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client BladePatterson_
+[03May2025 04:44:08.515] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShadowDairk lost connection: Disconnected
+[03May2025 04:44:08.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk left the game
+[03May2025 04:44:08.515] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShadowDairk
+[03May2025 04:44:49.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[03May2025 04:44:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[03May2025 04:44:54.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03May2025 04:44:54.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03May2025 04:44:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03May2025 04:44:54.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03May2025 04:44:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03May2025 04:44:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03May2025 04:44:56.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03May2025 04:44:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03May2025 04:44:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/arphex:the_crawling
+[03May2025 04:44:56.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_crawling): All chunks are saved
+[03May2025 04:44:56.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03May2025 04:44:56.635] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03May2025 04:44:56.637] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[03May2025 04:44:56.637] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-common.toml
+[03May2025 04:44:56.637] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked-server.toml
+[03May2025 04:44:56.638] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[03May2025 04:44:56.638] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
