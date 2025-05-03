@@ -5591,3 +5591,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:01:55.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 has made the advancement [Crops of the Wild]
 [03May2025 04:02:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk was slain by Skeleton Thrasher
 [03May2025 04:02:50.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to BladePatterson_]
+[03May2025 04:08:09.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk suffocated in a wall
+[03May2025 04:08:34.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to BladePatterson_]
+[03May2025 04:08:53.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 has made the advancement [Diamonds!]
+[03May2025 04:10:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported Arkos550 to ShadowDairk]
+[03May2025 04:10:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported BladePatterson_ to ShadowDairk]
+[03May2025 04:13:25.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to Arkos550]
+[03May2025 04:14:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [A Moment in Time]
+[03May2025 04:15:14.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported BladePatterson_ to Arkos550]
+[03May2025 04:15:51.861] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-651, y=79, z=-1376}

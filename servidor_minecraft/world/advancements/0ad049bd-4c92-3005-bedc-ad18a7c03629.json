@@ -5181,7 +5181,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-05-03 03:35:00 +0000"
+      "minecraft:skeleton": "2025-05-03 04:06:01 +0000",
+      "minecraft:spider": "2025-05-03 03:35:00 +0000",
+      "minecraft:zombie": "2025-05-03 04:14:02 +0000"
     },
     "done": false
   },
@@ -5527,6 +5529,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-03 04:13:07 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/rope_redwood_bridge": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
@@ -5557,6 +5577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-05-03 03:55:06 +0000"
@@ -5581,9 +5607,21 @@
     },
     "done": true
   },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2025-05-03 04:14:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
     },
     "done": true
   },
@@ -5599,6 +5637,24 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_color_photograph": {
+    "criteria": {
+      "has_photograph": "2025-05-03 04:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-05-03 03:55:06 +0000"
@@ -5611,15 +5667,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_bridge_pier": {
     "criteria": {
       "has_planks": "2025-05-03 03:57:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/photograph_frame": {
+    "criteria": {
+      "has_photograph": "2025-05-03 04:14:34 +0000"
     },
     "done": true
   },
@@ -5653,6 +5733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-05-03 04:01:25 +0000"
@@ -5671,6 +5757,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_button": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
@@ -5680,6 +5778,18 @@
   "mcwbiomesoplenty:recipes/redwood_four_panel_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
     },
     "done": true
   },
@@ -5695,9 +5805,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
     },
     "done": true
   },
@@ -5719,6 +5841,12 @@
     },
     "done": true
   },
+  "exposure:recipes/copying_black_and_white_photograph": {
+    "criteria": {
+      "has_photograph": "2025-05-03 04:14:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
@@ -5728,6 +5856,12 @@
   "mcwbiomesoplenty:recipes/redwood_classic_trapdoor": {
     "criteria": {
       "has_logs": "2025-05-03 03:57:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
     },
     "done": true
   },
@@ -5743,15 +5877,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/redwood_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-03 04:13:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
     },
     "done": true
   },
@@ -5770,6 +5922,18 @@
   "mcwbiomesoplenty:recipes/redwood_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-03 03:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-03 04:10:38 +0000"
     },
     "done": true
   },
