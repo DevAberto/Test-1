@@ -5544,3 +5544,22 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 03:31:08.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Not Today, Thank You]
 [03May2025 03:33:26.161] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-541, y=76, z=-1432}
 [03May2025 03:35:00.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Monster Hunter]
+[03May2025 03:40:58.571] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkos550[/127.100.226.22:34147] logged in with entity id 35496 at (-7.5, 71.0, -9.5)
+[03May2025 03:40:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 joined the game
+[03May2025 03:40:58.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 has completed the challenge [The Undead]
+[03May2025 03:41:01.440] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arkos550 (18)
+[03May2025 03:41:01.441] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arkos550
+[03May2025 03:41:06.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported Arkos550 to BladePatterson_]
+[03May2025 03:41:20.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Sweet Dreams]
+[03May2025 03:41:22.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Sweet Dreams]
+[03May2025 03:41:58.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Arkos550 lost connection: Disconnected
+[03May2025 03:41:58.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 left the game
+[03May2025 03:41:58.367] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Arkos550
+[03May2025 03:42:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Isn't It Iron Pick]
+[03May2025 03:43:33.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Arkos550[/127.100.226.22:48889] logged in with entity id 36512 at (-637.4946872454866, 75.5625, -1431.704122610519)
+[03May2025 03:43:33.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 joined the game
+[03May2025 03:43:35.744] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Arkos550 (18)
+[03May2025 03:43:35.744] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Arkos550
+[03May2025 03:43:39.361] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-638, y=68, z=-1419}
+[03May2025 03:43:42.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShadowDairk> blade?
+[03May2025 03:44:02.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShadowDairk> blade?

@@ -1,0 +1,17 @@
+{
+	id: "ba9bf330-970e-3a0a-9b71-9984ed500c2e"
+	type: "player"
+	player_name: "Arkos550"
+	ranks: {
+		ba9bf330-970e-3a0a-9b71-9984ed500c2e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Arkos550"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
