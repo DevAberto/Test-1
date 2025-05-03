@@ -5600,3 +5600,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 04:14:34.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [A Moment in Time]
 [03May2025 04:15:14.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported BladePatterson_ to Arkos550]
 [03May2025 04:15:51.861] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=-651, y=79, z=-1376}
+[03May2025 04:18:52.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk was slain by Zombie
+[03May2025 04:19:02.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BladePatterson_: Teleported ShadowDairk to Arkos550]
+[03May2025 04:23:52.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 has made the advancement [Isn't It Iron Pick]
+[03May2025 04:23:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Arkos550 has made the advancement [Deceived Hopes]
+[03May2025 04:25:04.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk was slain by Bloodworm
+[03May2025 04:25:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Diamonds!]

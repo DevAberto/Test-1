@@ -842,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-03 04:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-03 04:08:53 +0000"
@@ -1856,6 +1862,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-03 04:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-05-03 03:55:53 +0000"
@@ -2060,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-03 04:23:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
@@ -2189,6 +2207,12 @@
   "simpleradio:recipes/tools/walkie_talkie": {
     "criteria": {
       "has_iron_ingot": "2025-05-03 03:57:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-05-03 04:21:41 +0000"
     },
     "done": true
   },
@@ -2762,6 +2786,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-05-03 04:23:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-05-03 03:49:52 +0000"
@@ -2837,6 +2867,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-05-03 03:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-03 04:21:48 +0000"
     },
     "done": true
   },
@@ -3431,7 +3467,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-03 03:52:45 +0000",
-      "cooked_beef": "2025-05-03 04:01:19 +0000"
+      "cooked_beef": "2025-05-03 04:01:19 +0000",
+      "pumpkin_pie": "2025-05-03 04:18:52 +0000"
     },
     "done": false
   },
@@ -3450,6 +3487,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-03 04:00:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-03 04:21:50 +0000"
     },
     "done": true
   },
