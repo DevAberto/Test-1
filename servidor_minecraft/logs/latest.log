@@ -5531,3 +5531,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [03May2025 02:41:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has made the advancement [Getting an Upgrade]
 [03May2025 02:41:59.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShadowDairk has made the advancement [Getting an Upgrade]
 [03May2025 02:43:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShadowDairk> che no te dije soy un poco tartamudo
+[03May2025 02:47:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BladePatterson_ has completed the challenge [It Spreads]
+[03May2025 02:51:12.963] [Server thread/INFO] [com.lgow.endofherobrine.entity.herobrine.AbstractHerobrine/]: LURKER spawned at BlockPos{x=59, y=69, z=41}
+[03May2025 02:56:50.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BladePatterson_) moved wrongly! 0.3705316629505546
+[03May2025 02:56:50.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BladePatterson_) moved wrongly! 0.7425581248517403
+[03May2025 02:56:50.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of BladePatterson_) moved wrongly! 0.9584850595476127
