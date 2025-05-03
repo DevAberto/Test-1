@@ -1,0 +1,24 @@
+{
+	version: 1
+	uuid: "0ad049bd4c923005bedcad18a7c03629"
+	name: "ShadowDairk#0ad049bd"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		594C284B72E0D45D: 1
+	}
+	started: {
+		5AB16C8B0BF2BDCE: 1746239545606L
+		0000000000000001: 1746239545606L
+		594C284B72E0D45D: 1746239545606L
+		672B9103CC8C493F: 1746239545606L
+	}
+	completed: {
+		594C284B72E0D45D: 1746239545607L
+		672B9103CC8C493F: 1746239545607L
+	}
+	claimed_rewards: {
+		"0ad049bd4c923005bedcad18a7c03629:196319F28DC094EC": 1746239545607L
+	}
+	player_data: { }
+}
