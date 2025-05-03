@@ -1182,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-03 03:41:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2025-05-03 02:40:28 +0000"
@@ -2553,6 +2559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-03 03:47:01 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/hellbark_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-03 02:43:57 +0000"
@@ -2871,6 +2883,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 03:47:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-05-03 03:22:58 +0000"
@@ -3165,6 +3183,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-03 03:42:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/light_electricity_generator": {
     "criteria": {
       "has_redstone": "2025-05-03 02:37:21 +0000"
@@ -3366,6 +3390,12 @@
   "mcwbiomesoplenty:recipes/hellbark_trapdoors": {
     "criteria": {
       "has_the_recipe": "2025-05-03 02:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-03 03:42:19 +0000"
     },
     "done": true
   },
@@ -4503,6 +4533,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-05-03 03:47:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-05-03 02:37:21 +0000"
@@ -4830,6 +4866,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-05-03 02:36:06 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-05-03 03:47:01 +0000"
     },
     "done": true
   },
@@ -5588,6 +5630,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-03 03:45:12 +0000",
       "cooked_beef": "2025-05-03 03:22:10 +0000",
       "pumpkin_pie": "2025-05-03 02:30:57 +0000",
       "melon_slice": "2025-05-03 03:14:48 +0000"
