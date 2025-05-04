@@ -1515,10 +1515,12 @@
       "minecraft:lukewarm_ocean": "2025-05-03 02:52:42 +0000",
       "minecraft:river": "2025-05-03 02:36:01 +0000",
       "minecraft:stony_shore": "2025-05-03 02:56:13 +0000",
+      "minecraft:forest": "2025-05-04 00:31:14 +0000",
       "minecraft:desert": "2025-05-03 02:54:18 +0000",
       "minecraft:jungle": "2025-05-03 02:35:03 +0000",
       "minecraft:warm_ocean": "2025-05-03 02:55:12 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-03 02:55:22 +0000",
+      "minecraft:savanna": "2025-05-04 00:20:16 +0000",
       "minecraft:plains": "2025-05-03 02:59:10 +0000"
     },
     "done": false
@@ -5049,6 +5051,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-05-04 00:28:56 +0000",
       "entered_hay_storage": "2025-05-03 03:32:58 +0000"
     },
     "done": false
@@ -6180,6 +6183,78 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-05-03 04:38:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_wildflower": "2025-05-04 00:55:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-05-04 00:55:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-05-04 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-05-04 00:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-04 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-04 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_whispering": {
+    "criteria": {
+      "has_logs": "2025-05-04 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-04 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-05-04 00:49:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-04 00:22:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-04 00:22:52 +0000"
     },
     "done": true
   },
